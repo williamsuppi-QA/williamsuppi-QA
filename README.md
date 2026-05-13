@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner-qa.png" alt="Banner QA" width="100%" />
+</p>
 <div align="center">
 
 # William Morais Suppi
