@@ -7,10 +7,6 @@
 
 ### Em transição para QA | Analista de Testes Júnior | Testes Manuais | Casos de Teste | Gherkin | Jira | Postman
 
-[
-[
-[
-
 </div>
 
 ***
@@ -37,28 +33,37 @@ Busco oportunidade como **Analista de Testes Júnior / QA Júnior**, contribuind
 
 ### QA e processos
 
-
-
-
-
-
+- Testes manuais funcionais (web)
+- Escrita e execução de casos de teste
+- Registro de evidências e bug reports
+- Validação de fluxos de negócio
+- Noções de testes de API (em evolução)
+- Uso de linguagem Gherkin para descrição de cenários
+- Noções de trabalho com times ágeis (Scrum)
 
 ### Ferramentas
 
-
-
-
+- Jira (gestão de demandas e acompanhamento de issues)
+- Postman (requisições e testes básicos de API)
+- Cypress (automação E2E web – projeto Mercado Livre)
+- Git e GitHub (versionamento e portfólio)
+- Notion (organização de estudos e anotações)
+- Navegadores de desenvolvedor (DevTools para inspeção de elementos)
 
 ### Em evolução
 
-
-
-
+- Automação de testes com Cypress (aprofundando seletores, boas práticas e estrutura de projeto)
+- Testes de API (melhor uso do Postman e escrita de cenários mais completos)
+- Inglês aplicado a QA (comunicação profissional e leitura de documentação técnica)
+- Fundamentos de programação (JavaScript e lógica para apoiar automação)
 ***
 
 ## Portfólio em destaque
 ### testes-saucedemo-login
 Documentação de testes manuais aplicada ao módulo de login do SauceDemo, com foco em validação de fluxo, escrita de cenários e registro de evidências.
+
+### mercado-livre-busca-cypress
+Automação de teste E2E com Cypress para funcionalidade de busca no Mercado Livre, incluindo tratamento de navegação cross-origin.
 
 ***
 
@@ -75,6 +80,7 @@ Documentação de testes manuais aplicada ao módulo de login do SauceDemo, com 
 - `qa-testes-api-postman`
 - `qa-plano-de-testes-web`
 - `qa-checklists-evidencias`
+- `mercado-livre-busca-cypress`
 
 ***
 
