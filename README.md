@@ -37,7 +37,7 @@ Busco oportunidade como **Analista de Testes Júnior / QA Júnior**, contribuind
 - Escrita e execução de casos de teste
 - Registro de evidências e bug reports
 - Validação de fluxos de negócio
-- Noções de testes de API (em evolução)
+- Testes de API com Postman e CodeceptJS
 - Uso de linguagem Gherkin para descrição de cenários
 - Noções de trabalho com times ágeis (Scrum)
 
