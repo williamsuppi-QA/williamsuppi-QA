@@ -5,7 +5,7 @@
 
 # William Morais Suppi
 
-### Em transição para QA | Analista de Testes Júnior | Testes Manuais | Casos de Teste | Gherkin | Jira | Postman
+### Em transição para QA | Testes Manuais e Automatizados | Cypress | Playwright | CodeceptJS | Testes de API | Scrum | Documentação de Testes
 
 </div>
 
@@ -64,6 +64,12 @@ Documentação de testes manuais aplicada ao módulo de login do SauceDemo, com 
 
 ### mercado-livre-busca-cypress
 Automação de teste E2E com Cypress para funcionalidade de busca no Mercado Livre, incluindo tratamento de navegação cross-origin.
+
+### qa-automacao-codeceptjs 
+automação de testes funcionais com foco em fluxos web.
+
+### automacao-testes-api-codecepjs 
+automação de testes de API com CodeceptJS, validação de endpoints e respostas.
 
 ***
 
