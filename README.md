@@ -46,6 +46,8 @@ Busco oportunidade como **Analista de Testes Júnior / QA Júnior**, contribuind
 - Jira (gestão de demandas e acompanhamento de issues)
 - Postman (requisições e testes básicos de API)
 - Cypress (automação E2E web – projeto Mercado Livre)
+- Playwright (automação de fluxos e validação de mensagens de erro)
+- CodeceptJS (automação de testes web e testes de API)
 - Git e GitHub (versionamento e portfólio)
 - Notion (organização de estudos e anotações)
 - Navegadores de desenvolvedor (DevTools para inspeção de elementos)
