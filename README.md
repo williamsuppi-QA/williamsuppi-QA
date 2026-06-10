@@ -74,16 +74,6 @@ Automação de teste E2E com Cypress para funcionalidade de busca no Mercado Liv
 
 ***
 
-## Repositórios que estou estruturando
-- `qa-casos-de-teste-saucedemo`
-- `qa-bug-report-exemplos`
-- `qa-testes-api-postman`
-- `qa-plano-de-testes-web`
-- `qa-checklists-evidencias`
-- `mercado-livre-busca-cypress`
-
-***
-
 ## Contato
 - LinkedIn: [william-morais-suppi](https://www.linkedin.com/in/william-morais-suppi)
 - GitHub: [williamsuppi-QA](https://github.com/williamsuppi-QA)
