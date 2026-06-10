@@ -70,7 +70,7 @@ Automação de teste E2E com Cypress para funcionalidade de busca no Mercado Liv
 ### qa-automacao-codeceptjs 
 automação de testes funcionais com foco em fluxos web.
 
-### automacao-testes-api-codecepjs 
+### automacao-testes-api-codeceptjs 
 automação de testes de API com CodeceptJS, validação de endpoints e respostas.
 
 ***
