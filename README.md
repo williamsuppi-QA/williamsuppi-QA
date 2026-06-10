@@ -50,7 +50,7 @@ Busco oportunidade como **Analista de Testes Júnior / QA Júnior**, contribuind
 - Notion (organização de estudos e anotações)
 - Navegadores de desenvolvedor (DevTools para inspeção de elementos)
 
-### Em evolução
+### Aprofundando
 
 - Automação de testes com Cypress (aprofundando seletores, boas práticas e estrutura de projeto)
 - Testes de API (melhor uso do Postman e escrita de cenários mais completos)
