@@ -7,6 +7,16 @@
 
 ### Em transição para QA | Testes Manuais e Automatizados | Cypress | Playwright | CodeceptJS | Testes de API | Scrum | Documentação de Testes
 
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-E23B39?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 </div>
 
 ***
@@ -45,7 +55,7 @@ Busco oportunidade como **Analista de Testes Júnior / QA Júnior**, contribuind
 
 - Jira (gestão de demandas e acompanhamento de issues)
 - Postman (requisições e testes básicos de API)
-- Cypress (automação E2E web – projeto Mercado Livre)
+- Cypress (automação E2E web)
 - Playwright (automação de fluxos e validação de mensagens de erro)
 - CodeceptJS (automação de testes web e testes de API)
 - Git e GitHub (versionamento e portfólio)
@@ -58,20 +68,25 @@ Busco oportunidade como **Analista de Testes Júnior / QA Júnior**, contribuind
 - Testes de API (melhor uso do Postman e escrita de cenários mais completos)
 - Inglês aplicado a QA (comunicação profissional e leitura de documentação técnica)
 - Fundamentos de programação (JavaScript e lógica para apoiar automação)
+
 ***
 
 ## Portfólio em destaque
+
 ### testes-saucedemo-login
-Documentação de testes manuais aplicada ao módulo de login do SauceDemo, com foco em validação de fluxo, escrita de cenários e registro de evidências.
+Documentação de testes manuais aplicada ao módulo de login do SauceDemo, com foco em validação de fluxo, escrita de cenários em Gherkin e registro de evidências.
 
 ### mercado-livre-busca-cypress
 Automação de teste E2E com Cypress para funcionalidade de busca no Mercado Livre, incluindo tratamento de navegação cross-origin.
 
-### qa-automacao-codeceptjs 
-automação de testes funcionais com foco em fluxos web.
+### cypress-automation-qazando
+Automação de testes E2E com Cypress aplicada ao sistema Qazando, com foco em fluxos funcionais e boas práticas de estrutura de projeto.
 
-### automacao-testes-api-codeceptjs 
-automação de testes de API com CodeceptJS, validação de endpoints e respostas.
+### qa-automacao-codeceptjs
+Automação de testes funcionais web com CodeceptJS, cobrindo fluxos de navegação e validação de comportamento da interface.
+
+### automacao-testes-api-codeceptjs
+Automação de testes de API com CodeceptJS, com validação de endpoints, status codes e estrutura de respostas.
 
 ***
 
